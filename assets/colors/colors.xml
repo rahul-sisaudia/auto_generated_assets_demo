@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary" >#D9638C</color>
+    <color name="primary_light" >#FCF6FB</color>
+    <color name="primary_material" type="material">#D9638C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="wild_sand">#F5F5F5</color>
+    <color name="pure_black">#000000</color>
+    <color name="black">#050505</color>
+    <color name="gray_70">#EEEEEE</color>
+    <color name="gray_410">#979797</color>
+    <color name="cranberry">#D9638C</color>
+    <color name="amour">#FCF6FB</color>
+    <color name="aqua_spring">#EEFAF6</color>
+    <color name="selago">#E9E9FB</color>
+    <color name="milk_punch">#FFF7D9</color>
+    <color name="white_lilac">#F8F7FC</color>
+    <color name="grey">#54505D</color>
+    <color name="half_dutch_white">#FFF7D9</color>
+    <color name="black_squeeze">#EEFAF6</color>
+    <color name="blue_chalk">#E9E9FB</color>
+    <color name="medium_slate_blue">#6E6BE5</color>
+    <color name="seashell">#ECF1F2</color>
+    <color name="crimson_red" type="material">#CF2A2A</color>
+    <color name="yellow_ocher" type="material material-accent">#DF9527</color>
+    <color name="yellow_ochera" type="material material-accent">#DF9527</color>
+</resources>
